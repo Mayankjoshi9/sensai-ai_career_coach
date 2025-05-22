@@ -1,13 +1,12 @@
-"use client"
+"use client";
 
-import Image from 'next/image'
-import Link from 'next/link'
-import React, { useEffect, useRef } from 'react'
+import React, { useEffect, useRef } from "react";
+import Image from "next/image";
 import { Button } from "@/components/ui/button";
-
+import Link from "next/link";
 
 const HeroSection = () => {
-    const imageRef = useRef(null);
+  const imageRef = useRef(null);
 
   useEffect(() => {
     const imageElement = imageRef.current;
@@ -47,7 +46,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.youtube.com/roadsidecoder">
+          <Link href="#">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
@@ -67,7 +66,7 @@ const HeroSection = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default HeroSection
+export default HeroSection;
