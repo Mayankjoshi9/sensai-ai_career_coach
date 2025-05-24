@@ -1,12 +1,8 @@
-<<<<<<< HEAD
+
 # Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
 
-### Make sure to create a `.env` file with following variables -
 
-=======
 
 
 ---
@@ -88,58 +84,4 @@ GEMINI_API_KEY=
 
 ```bash
 npm run dev
->>>>>>> 8d6015513c5e97e45280b7ca64e901d5bdfc406d
-```
-DATABASE_URL=
 
-<<<<<<< HEAD
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-
-GEMINI_API_KEY=
-```
-=======
----
-
-
-
-## 🌍 Live Demo
-
-👉 [Live Website](https://your-deployment-link.com)
-
----
-
-## 📌 Roadmap / Future Enhancements
-
-* [ ] Add downloadable PDF support for resume & cover letter
-* [ ] AI-driven personalized career suggestions
-* [ ] User progress tracking in MCQs
-* [ ] Admin dashboard to manage questions and insights
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
-## 📄 License
-
-[MIT License](LICENSE)
-
----
-
-## 👤 Author
-
-Made with ❤️ by [Mayank Joshi](https://github.com/sensai-ai_career_coach)
-
----
-
-
->>>>>>> 8d6015513c5e97e45280b7ca64e901d5bdfc406d
